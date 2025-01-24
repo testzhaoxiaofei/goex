@@ -16,11 +16,11 @@ func (api *PrvApi) CreateOrder(pair CurrencyPair, qty, price float64, side Order
 		return nil, nil, errors.New("spot order side is error")
 	}
 
-	opts = append(opts,
-		OptionParameter{
-			Key:   "tdMode",
-			Value: "cash",
-		})
+	//opts = append(opts,
+	//	OptionParameter{
+	//		Key:   "tdMode",
+	//		Value: "cash",
+	//	})
 
 	return api.Prv.CreateOrder(pair, qty, price, side, orderTy, opts...)
 }
