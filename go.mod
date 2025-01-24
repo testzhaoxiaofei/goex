@@ -1,4 +1,4 @@
-module github.com/testzhaoxiaofei/goex/v2
+module github.com/testzhaoxiaofei/goex
 
 go 1.18
 
