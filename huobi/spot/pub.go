@@ -3,8 +3,8 @@ package spot
 import (
 	"errors"
 	"fmt"
-	. "github.com/nntaoli-project/goex/v2/httpcli"
-	. "github.com/nntaoli-project/goex/v2/model"
+	. "github.com/testzhaoxiaofei/goex/v2/httpcli"
+	. "github.com/testzhaoxiaofei/goex/v2/model"
 	"net/http"
 	"net/url"
 )

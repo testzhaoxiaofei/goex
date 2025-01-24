@@ -1,9 +1,9 @@
 package spot
 
 import (
-	. "github.com/nntaoli-project/goex/v2/model"
-	"github.com/nntaoli-project/goex/v2/okx/common"
-	"github.com/nntaoli-project/goex/v2/options"
+	. "github.com/testzhaoxiaofei/goex/v2/model"
+	"github.com/testzhaoxiaofei/goex/v2/okx/common"
+	"github.com/testzhaoxiaofei/goex/v2/options"
 )
 
 type Spot struct {

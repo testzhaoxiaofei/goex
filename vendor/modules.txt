@@ -12,25 +12,6 @@ github.com/google/uuid
 github.com/klauspost/compress/flate
 github.com/klauspost/compress/gzip
 github.com/klauspost/compress/zlib
-# github.com/nntaoli-project/goex/v2 v2.0.0-20240923090356-d3aa0db8d754
-## explicit; go 1.18
-github.com/nntaoli-project/goex/v2/binance
-github.com/nntaoli-project/goex/v2/binance/common
-github.com/nntaoli-project/goex/v2/binance/futures/fapi
-github.com/nntaoli-project/goex/v2/binance/spot
-github.com/nntaoli-project/goex/v2/httpcli
-github.com/nntaoli-project/goex/v2/huobi
-github.com/nntaoli-project/goex/v2/huobi/common
-github.com/nntaoli-project/goex/v2/huobi/futures
-github.com/nntaoli-project/goex/v2/huobi/spot
-github.com/nntaoli-project/goex/v2/logger
-github.com/nntaoli-project/goex/v2/model
-github.com/nntaoli-project/goex/v2/okx
-github.com/nntaoli-project/goex/v2/okx/common
-github.com/nntaoli-project/goex/v2/okx/futures
-github.com/nntaoli-project/goex/v2/okx/spot
-github.com/nntaoli-project/goex/v2/options
-github.com/nntaoli-project/goex/v2/util
 # github.com/nntaoli/go-tools v0.0.0-20231117134637-ffc092526634
 ## explicit; go 1.18
 github.com/nntaoli/go-tools/logger
