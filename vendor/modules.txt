@@ -18,6 +18,25 @@ github.com/nntaoli/go-tools/logger
 # github.com/spf13/cast v1.5.0
 ## explicit; go 1.18
 github.com/spf13/cast
+# github.com/testzhaoxiaofei/goex/v2 v2.0.0-20250124054319-25e2641caaed
+## explicit; go 1.18
+github.com/testzhaoxiaofei/goex/v2/binance
+github.com/testzhaoxiaofei/goex/v2/binance/common
+github.com/testzhaoxiaofei/goex/v2/binance/futures/fapi
+github.com/testzhaoxiaofei/goex/v2/binance/spot
+github.com/testzhaoxiaofei/goex/v2/httpcli
+github.com/testzhaoxiaofei/goex/v2/huobi
+github.com/testzhaoxiaofei/goex/v2/huobi/common
+github.com/testzhaoxiaofei/goex/v2/huobi/futures
+github.com/testzhaoxiaofei/goex/v2/huobi/spot
+github.com/testzhaoxiaofei/goex/v2/logger
+github.com/testzhaoxiaofei/goex/v2/model
+github.com/testzhaoxiaofei/goex/v2/okx
+github.com/testzhaoxiaofei/goex/v2/okx/common
+github.com/testzhaoxiaofei/goex/v2/okx/futures
+github.com/testzhaoxiaofei/goex/v2/okx/spot
+github.com/testzhaoxiaofei/goex/v2/options
+github.com/testzhaoxiaofei/goex/v2/util
 # github.com/valyala/bytebufferpool v1.0.0
 ## explicit
 github.com/valyala/bytebufferpool

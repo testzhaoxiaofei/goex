@@ -1,12 +1,13 @@
 module github.com/testzhaoxiaofei/goex
 
-go 1.18
+go 1.23
 
 require (
 	github.com/buger/jsonparser v1.1.1
 	github.com/google/uuid v1.3.0
 	github.com/nntaoli/go-tools v0.0.0-20231117134637-ffc092526634
 	github.com/spf13/cast v1.5.0
+	github.com/testzhaoxiaofei/goex/v2 v2.0.0-20250124054319-25e2641caaed
 	github.com/valyala/fasthttp v1.47.0
 )
 
